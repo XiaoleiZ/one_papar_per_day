@@ -13,5 +13,5 @@ Stage 1: July 5th, 2019 - July 12th, 2019
 
 ## Records
 
-1. [Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphism] (https://www.cell.com/trends/genetics/fulltext/S0168-9525(16)30147-0) 
+1. [Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphism](https://www.cell.com/trends/genetics/fulltext/S0168-9525(16)30147-0) 
 
