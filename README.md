@@ -21,4 +21,4 @@ The functional annotation tools used high-throughput assays to predict the possi
 
 The drawbacks of machine learning methods include susceptibility to bias in the training data set and lack of gold-standard training set. 
 
-Incorporation of 3D structural data (e.g. Chromosome conformation capture (3C), Chromosome conformation capture-on-chip (4C) and Chromosome conformation capture carbon copy (5C)) will improve our ability to assign regulatory SNPs to their target genes. 
+Incorporation of 3D structural data (e.g. Chromosome conformation capture (3C), Chromosome conformation capture-on-chip (4C), Chromosome conformation capture carbon copy (5C) and Hi-C) will improve our ability to assign regulatory SNPs to their target genes. 
